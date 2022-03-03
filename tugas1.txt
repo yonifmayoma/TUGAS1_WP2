@@ -1,0 +1,31 @@
+Microsoft Windows [Version 10.0.19044.1526]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\ACER>php --version
+PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8_11g' (tried: C:\xampp7.26\php\ext\oci8_11g (The specified module could not be found.), C:\xampp7.26\php\ext\php_oci8_11g.dll (%1 is not a valid Win32 application.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'oci8_11g' (tried: C:\xampp7.26\php\ext\oci8_11g (The specified module could not be found.), C:\xampp7.26\php\ext\php_oci8_11g.dll (%1 is not a valid Win32 application.)) in Unknown on line 0
+PHP 7.4.26 (cli) (built: Nov 16 2021 18:15:31) ( ZTS Visual C++ 2017 x64 )
+Copyright (c) The PHP Group
+Zend Engine v3.4.0, Copyright (c) Zend Technologies
+
+C:\Users\ACER>cd ..
+
+C:\Users>cd ..
+
+C:\>cd xampp7.26
+
+C:\xampp7.26>cd htdocs
+
+C:\xampp7.26\htdocs>cd WP2
+
+C:\xampp7.26\htdocs\WP2>php tugas1.php
+PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8_11g' (tried: C:\xampp7.26\php\ext\oci8_11g (The specified module could not be found.), C:\xampp7.26\php\ext\php_oci8_11g.dll (%1 is not a valid Win32 application.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'oci8_11g' (tried: C:\xampp7.26\php\ext\oci8_11g (The specified module could not be found.), C:\xampp7.26\php\ext\php_oci8_11g.dll (%1 is not a valid Win32 application.)) in Unknown on line 0
+Halo! Perkenalkan Saya,
+Nama     : Yonif Mayoma
+Nim      : 20090111
+Kelas    : 4B
+
+C:\xampp7.26\htdocs\WP2>
